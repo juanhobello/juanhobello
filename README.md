@@ -1,7 +1,7 @@
 ### Olá, eu sou o Juan Bello, Desenvolvedor Full Stack👋
 
-- 🔭 Hoje trabalho como Desenvolvedor Full Stack.
-- 🌱 Atualmente estou aprofundando meus conhecimento em Node.js e também estudando Angular.
+- 🔭 Trabalho como Desenvolvedor Full Stack.
+- 🌱 Atualmente estou aprofundando meus conhecimento em Node.js e também em Angular.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
